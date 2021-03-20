@@ -2,6 +2,11 @@
 
 ## Getting started with you new driver
 
+Welcome, developer!
+
+Let's get started with your new driver. I'm assuming you already know how to start extensions on VSCode.
+In case you dont', please take a look at https://code.visualstudio.com/api/get-started/your-first-extension before moving forward.
+
 ### 1. Set name, id and description of your driver
 
 In the very beginning let's get this child a name. There are a few places you are required to change, and others are up to you to decide.
@@ -20,6 +25,12 @@ In the very beginning let's get this child a name. There are a few places you ar
 - Optional changes
   - `src/contants.ts`, you can use different values here if you want
   - `src/extension.ts`, this is where your driver is bootstraped and attached to SQLTools. You can customize as needed.
+
+You can now go to your terminal emulator and start the extension compiling process with:
+
+```
+yarn run watch # or npm run watch
+```
 
 For an overview on how to create VScode extensions, refer to VSCode guide at [](https://code.visualstudio.com/api/get-started/your-first-extension).
 
