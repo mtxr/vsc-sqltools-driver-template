@@ -1,4 +1,4 @@
-# SQLTools driver-template Driver
+# SQLTools Driver Template Repository
 
 ## Getting started with you new driver
 
