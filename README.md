@@ -1,5 +1,10 @@
 # SQLTools Driver Template Repository
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y487W9)
+[![Patreon](https://img.shields.io/badge/patreon-support-blue.svg?style=for-the-badge)](https://www.patreon.com/mteixeira)
+[![Paypal Donate](https://img.shields.io/badge/paypal-donate-blue.svg?style=for-the-badge)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RSMB6DGK238V8)
+[![VSCode.pro](https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20Course%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)](https://a.paddle.com/v2/click/16413/111711?link=1227)
+
 ## Getting started with you new driver
 
 Welcome, developer!
